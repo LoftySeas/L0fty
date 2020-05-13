@@ -1,2 +1,3 @@
 # L0fty
-hi
+hi\n
+Hello!
